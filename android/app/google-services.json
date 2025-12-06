@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "868489479674",
+    "project_id": "ecomapp-1f972",
+    "storage_bucket": "ecomapp-1f972.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868489479674:android:e152b06160eb5a02d15043",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868489479674-hmka2ip8tvkn5nv89r5hgde07c4c24rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBotHi7vIXos2y5Tc8x4fb5nzCOKJf6TEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868489479674-hmka2ip8tvkn5nv89r5hgde07c4c24rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868489479674:android:25ee00476de67b37d15043",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868489479674-hmka2ip8tvkn5nv89r5hgde07c4c24rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBotHi7vIXos2y5Tc8x4fb5nzCOKJf6TEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868489479674-hmka2ip8tvkn5nv89r5hgde07c4c24rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
